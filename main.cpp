@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include<iterator>
+
 using namespace std;
 
 vector<double> getDifferences(vector<double> x){
