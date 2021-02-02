@@ -4,6 +4,8 @@ This is designed to complete a sequence. When given 5 adjacent numbers in a sequ
 This works best with polynomial sequences. And only 4th degree polynomials and smaller.  
 It also outputs the polynomial function that interpolates the sequence.
 
+[Link to Repl.It](https://repl.it/@YULitle/InterpolatingPolynomialMachine#main.cpp)
+
 ## Areas for improvement  
 1. Non-polynomial guessing
 1. Higher-order polynomials
